@@ -1,0 +1,10 @@
+.az{
+   background-color: rgba(200,200,200,0.7);
+}
+.panel{
+	height: 100vh;
+}
+.panier-item{
+	border : 2px solid background-color(0,0,0);
+}
+.cubeitem{}
